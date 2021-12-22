@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kulan Sachinthana</h1>
 <h3 align="center">Making the world better with ones & zeros</h3> - 📫 How to reach me **kgks999@gmail.com** <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/kulan-sachinthana" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kulan-sachinthana" height="30" width="40" />
+  </a>
   <a href="https://stackoverflow.com/users/9097672" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9097672" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/kulans1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kulans1" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/kulans" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kulans" height="30" width="40" />
