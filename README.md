@@ -49,7 +49,7 @@
   </a>
   </a>
   <a href="https://subversion.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg" alt="oracle" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/subversion_logo.svg" alt="oracle" width="40" height="40" />
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
