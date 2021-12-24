@@ -67,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/tomcat_logo.svg" alt="tomcat" width="40" height="40" />
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Ajax_(programming)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/ajax_logo.svg" alt="ajax" width="50" height="50" />
@@ -95,5 +95,14 @@
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/wireshark_logo.svg" alt="wireshark" width="30" height="30" />
+  </a>
+  <a href="https://www.openssl.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/openssl_logo.svg" alt="openssl" width="90" height="30" />
+  </a>
+  <a href=https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/latex_logo.svg" alt="latex" width="80" height="20" />
+  </a>
+  <a href=https://cpanel.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/cpanel_logo.svg" alt="cpanel" width="80" height="20" />
   </a>
 </p>
