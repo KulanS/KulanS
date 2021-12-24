@@ -100,7 +100,7 @@
     <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/openssl_logo.svg" alt="openssl" width="90" height="30" />
   </a>
   <a href=https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/latex_logo.svg" alt="latex" width="80" height="20" />
+    <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/latex_logo.svg" alt="latex" width="80" height="30" />
   </a>
   <a href=https://cpanel.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/cpanel_logo.svg" alt="cpanel" width="80" height="20" />
