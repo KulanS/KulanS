@@ -81,4 +81,19 @@
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/angular_logo.svg" alt="angular" width="40" height="40" />
   </a>
+  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/jmeter_logo.svg" alt="jmeter" width="90" height="30" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/postman_logo.svg" alt="postman" width="30" height="30" />
+  </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/maven_logo.svg" alt="maven" width="80" height="20" />
+  </a>
+  <a href="https://ant.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/ant_logo.svg" alt="ant" width="80" height="30" />
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/KulanS/KulanS/main/assets/icons/wireshark_logo.svg" alt="wireshark" width="30" height="30" />
+  </a>
 </p>
